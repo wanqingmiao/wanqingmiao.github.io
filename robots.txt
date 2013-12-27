@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://wanqingmiao.github.io/sitemap.xml 
